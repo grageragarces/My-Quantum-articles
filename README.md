@@ -1,4 +1,5 @@
 # My Quantum articles
+- No longuer matained as these live in my personal webpage [grageragarces.github.io](https://grageragarces.github.io)
 
 This repository contains publications authored by me, that pertain to Quantum technologies and Quantum concepts, that might help readers learn about various topics within the Quantum field.
 Current publications include:
